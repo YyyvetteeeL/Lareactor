@@ -11,3 +11,12 @@ Many people enjoy H.P. Lovecraft’s work for the idea that “the oldest and st
 Finally, nothing can develop independently of the environment in which it exists, art and design are no exception. We are living in an era of rapid technological development. Even professions that may seem to have little connection with technology, such as sanitation work, are increasingly supported by technological products and systems. Completing a complex project often requires collaboration between people from multiple disciplines. Designers naturally become part of this process. Designers need to understand how programs work in order to collaborate more effectively with programmers and ensure the project is executed comprehensively and efficiently.
 
 In conclusion, I believe that coding is a tool for discovering, understanding, and creating art. Designers need to understand technology so that they can communicate and collaborate with programmers, and effectively bring their designs into reality. At the same time, learning to code allows us to experience the joy and aesthetic possibilities that emerge from the collision between different disciplines. In an age when AI can generate code on demand, perhaps learning coding is no longer primarily about learning how to write every line of code ourselves. Instead, it is about understanding what code can do, discovering what becomes possible through it, and finding our own ways to create with it. This is why we are here.
+
+## References
+Beattie, D. (2020, January 27–31). *The art of code* [Video/Keynote address]. NDC London, London, United Kingdom. 
+
+Gardner, M. (1970). Mathematical games: The fantastic combinations of John Conway's new solitaire game "life". *Scientific American*, *223*(4), 120–123. 
+
+Lovecraft, H. P. (1927). *Supernatural horror in literature*. The Recluse.
+
+Mordvintsev, A., Olah, C., & Tyka, M. (2015, June 17). *Inceptionism: Going deeper into neural networks*. Google Research. 
