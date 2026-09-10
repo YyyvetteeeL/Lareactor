@@ -13,7 +13,6 @@ Finally, nothing can develop independently of the environment in which it exists
 In conclusion, I believe that coding is a tool for discovering, understanding, and creating art. Designers need to understand technology so that they can communicate and collaborate with programmers, and effectively bring their designs into reality. At the same time, learning to code allows us to experience the joy and aesthetic possibilities that emerge from the collision between different disciplines. In an age when AI can generate code on demand, perhaps learning coding is no longer primarily about learning how to write every line of code ourselves. Instead, it is about understanding what code can do, discovering what becomes possible through it, and finding our own ways to create with it. This is why we are here.
 
 ## References
-<<<<<<< HEAD
 Beattie, D. (2020, January 27–31). *The art of code* [Video/Keynote address]. NDC London, London, United Kingdom. 
 
 Gardner, M. (1970). Mathematical games: The fantastic combinations of John Conway's new solitaire game "life". *Scientific American*, *223*(4), 120–123. 
@@ -21,5 +20,4 @@ Gardner, M. (1970). Mathematical games: The fantastic combinations of John Conwa
 Lovecraft, H. P. (1927). *Supernatural horror in literature*. The Recluse.
 
 Mordvintsev, A., Olah, C., & Tyka, M. (2015, June 17). *Inceptionism: Going deeper into neural networks*. Google Research. 
-=======
 
