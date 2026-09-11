@@ -10,6 +10,6 @@ Using `uv run` to execute python scripts because it manages environment dependen
 One thing rejected: Running `check.py` from subdirectories, because it must be executed from the project root to inspect repo structures properly.
 
 ## AI usage
-Search for relevant literature，
-organize my thoughts, 
+Search for relevant literature; 
+organize my thoughts; 
 check the formatting of citations.
